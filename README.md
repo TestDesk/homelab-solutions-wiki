@@ -12,3 +12,9 @@ Documentation is organized by platform and topic in a directory structure. Some 
 |Name|Description|Link|
 |---|-|-|
 |Cryptpad|Sandbox Domain nginx Fix|[EN](https://github.com/TestDesk/homelab-solutions/blob/main/yunohost/apps/cryptpad/yh-cryptpad-sandbox-nginx.md) • [DE](https://github.com/TestDesk/homelab-solutions/blob/main/yunohost/apps/cryptpad/yh-cryptpad-sandbox-nginx_de.md)|
+
+### YunoHost – Security
+|Name|Description|Link|
+|---|-|-|
+|Kernel Update|CVE-2026-43284 "Dirty Frag" – Kernel Update on YunoHost|[EN](https://github.com/TestDesk/homelab-solutions/blob/main/yunohost/security/yh-cve-2026-43284-dirty-frag.md) • [DE](https://github.com/TestDesk/homelab-solutions/blob/main/yunohost/security/yh-cve-2026-43284-dirty-frag_de.md)|
+
